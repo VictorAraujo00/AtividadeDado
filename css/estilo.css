@@ -1,0 +1,20 @@
+body{
+	background-image: url('https://casinoalto.com/br/wp-content/uploads/sites/5/2022/07/2-3.webp');
+	background-repeat: no-repeat;
+	background-color: darkgreen;
+	background-position: center top;
+}
+
+#mesa{
+	
+	text-align: center;
+	padding-top: 150px;
+	
+
+}
+
+#jogo{
+	text-align: center;
+	padding-top: 200px;
+	color: white;
+}
